@@ -1,0 +1,1 @@
+savedcmd_/home/sunbeam/PGCP_ESD/device_driver/assign/import_export/export.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sunbeam/PGCP_ESD/device_driver/assign/import_export/export.ko /home/sunbeam/PGCP_ESD/device_driver/assign/import_export/export.o /home/sunbeam/PGCP_ESD/device_driver/assign/import_export/export.mod.o
